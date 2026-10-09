@@ -4,7 +4,11 @@
     "J": {
       "path": "test.md",
       "created": "2026-10-09T10:25:10Z",
-      "password": null
+      "password": {
+        "salt": "hgz0pm78eNxZgxd8SVldIg==",
+        "hash": "9ITqaQMsira6Spov3NjkCCgxUrk4RDIFU170ansyaik=",
+        "iterations": 600000
+      }
     }
   }
 }
