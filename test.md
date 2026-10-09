@@ -44,3 +44,5 @@
 |     |     |     |
 |     |     |     |
 
+![[schnittmuster-28720.pdf#page=3&rect=37,476,287,672|full]]
+
